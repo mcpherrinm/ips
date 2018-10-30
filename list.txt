@@ -1,0 +1,10 @@
+# CIDR             NetName      Comment
+129.97.0.0/16      UWATERLOO-V4 University of Waterloo
+206.108.252.0/23   ONLINK       NorthernTel
+206.108.254.0/24   ONLINK       NorthernTel
+209.105.192.0/19   ONLINK-BLK-1 Northerntel
+64.25.160.0/19     ONLINK-BLK-2 Northerntel
+76.8.112.0/20      ONLINK-BLK-3 Northerntel
+173.255.16.0/20    ONLINK-BLK-4 Northerntel
+173.255.30.0/24    ONLINK-BLK-4 Northerntel
+206.130.219.0/24   PUC-COCHRANE Cochrane Telecom Services
