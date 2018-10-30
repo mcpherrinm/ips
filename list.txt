@@ -1,30 +1,58 @@
-# CIDR             NetName             Comment
-129.97.0.0/16      UWATERLOO-V4        University of Waterloo
-206.108.252.0/23   ONLINK              NorthernTel
-206.108.254.0/24   ONLINK              NorthernTel
-209.105.192.0/19   ONLINK-BLK-1        Northerntel
-64.25.160.0/19     ONLINK-BLK-2        Northerntel
-76.8.112.0/20      ONLINK-BLK-3        Northerntel
-173.255.16.0/20    ONLINK-BLK-4        Northerntel
-173.255.30.0/24    ONLINK-BLK-4        Northerntel
-206.130.219.0/24   PUC-COCHRANE        Cochrane Telecom Services
-73.0.0.0/8         CABLE-1             Comcast
-76.96.0.0/11       JUMPSTART-5         Comcast
-24.0.0.0/12        EASTERNSHORE-1      Comcast
-67.160.0.0/11      COMCAST             Comcast
-69.12.128.0/17     SONIC               Sonic
-128.120.0.0/16     UCDAVIS             University of California, Davis
-104.193.168.0/22   NET-MONKEYBRAINS-11 Monkey Brains
-104.244.24.0/22    NET-MONKEYBRAINS-12 Monkey Brains
-148.64.96.0/20     NET-MONKEYBRAINS-15 Monkey Brains
-162.217.72.0/22    NET-MONKEYBRAINS-9  Monkey Brains
-162.245.20.0/22    NET-MONKEYBRAINS-10 Monkey Brains
-192.195.80.0/22    NET-MONKEYBRAINS-8  Monkey Brains
-199.116.72.0/22    NET-MONKEYBRAINS-6  Monkey Brains
-199.188.192.0/22   NET-MONKEYBRAINS-5  Monkey Brains
-199.230.10.0/23    NET-MONKEYBRAINS-13 Monkey Brains
-199.241.200.0/22   NET-MONKEYBRAINS-7  Monkey Brains
-199.83.220.0/22    NET-MONKEYBRAINS-4  Monkey Brains
-208.69.40.0/22     NET-MONKEYBRAINS-1  Monkey Brains
-208.90.212.0/22    NET-MONKEYBRAINS-2  Monkey Brains
-52.119.112.0/20    NET-MONKEYBRAINS-14 Monkey Brains
+# CIDR             Comment
+129.97.0.0/16      University of Waterloo
+206.108.252.0/23   NorthernTel
+206.108.254.0/24   NorthernTel
+209.105.192.0/19   Northerntel
+64.25.160.0/19     Northerntel
+76.8.112.0/20      Northerntel
+173.255.16.0/20    Northerntel
+173.255.30.0/24    Northerntel
+206.130.219.0/24   Cochrane Telecom Services
+73.0.0.0/8         Comcast
+76.96.0.0/11       Comcast
+24.0.0.0/12        Comcast
+67.160.0.0/11      Comcast
+69.12.128.0/17     Sonic
+128.120.0.0/16     University of California, Davis
+104.193.168.0/22   Monkey Brains
+104.244.24.0/22    Monkey Brains
+148.64.96.0/20     Monkey Brains
+162.217.72.0/22    Monkey Brains
+162.245.20.0/22    Monkey Brains
+192.195.80.0/22    Monkey Brains
+199.116.72.0/22    Monkey Brains
+199.188.192.0/22   Monkey Brains
+199.230.10.0/23    Monkey Brains
+199.241.200.0/22   Monkey Brains
+199.83.220.0/22    Monkey Brains
+208.69.40.0/22     Monkey Brains
+208.90.212.0/22    Monkey Brains
+52.119.112.0/20    Monkey Brains
+136.24.0.0/16      Webpass
+136.25.0.0/17      Webpass
+136.25.128.0/18    Webpass
+136.26.0.0/17      Webpass
+136.26.128.0/18    Webpass
+136.27.0.0/18      Webpass
+136.28.0.0/17      Webpass
+136.28.128.0/17    Webpass
+136.29.0.0/18      Webpass
+136.30.0.0/17      Webpass
+136.30.128.0/17    Webpass
+162.216.196.0/22   Webpass
+162.222.100.0/23   Webpass
+162.222.102.0/23   Webpass
+173.247.192.0/20   Webpass
+192.77.236.0/22    Webpass
+192.80.0.0/21      Webpass
+199.21.84.0/22     Webpass
+199.87.80.0/21     Webpass
+204.14.152.0/23    Webpass
+204.14.154.0/23    Webpass
+204.14.156.0/22    Webpass
+204.28.112.0/20    Webpass
+208.66.24.0/21     Webpass
+208.72.136.0/21    Webpass
+208.80.64.0/21     Webpass
+208.87.56.0/22     Webpass
+208.87.60.0/23     Webpass
